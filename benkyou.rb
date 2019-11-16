@@ -7,3 +7,7 @@ users = ["taira","kataoka","ishihara","yamamoto"]
 users.each do |user|
   puts user
 end
+
+class Communication
+  
+end
